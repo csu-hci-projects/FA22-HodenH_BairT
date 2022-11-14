@@ -708,3 +708,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-17.56.06:799][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Coin_BP.Coin_BP
 [2022.11.14-17.56.06:800][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.11.14-17.56.07:572][486]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.14-17.57.54:351][683]LogDerivedDataCache: C:/Users/tbair/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
