@@ -973,3 +973,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.14-18.21.29:307][420]AssetCheck: New page: Asset Save: Level_BallGame_1
 [2022.11.14-18.21.29:307][420]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
 [2022.11.14-18.21.32:700][818]Cmd: git add .
+[2022.11.14-18.21.57:197][253]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.14-18.21.57:205][253]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.14-18.21.58:960][420]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FallZone.FallZone
+[2022.11.14-18.21.58:961][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.14-18.21.59:738][420]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.14-18.22.07:770][116]LogSlate: Window 'FallZone' being destroyed
+[2022.11.14-18.22.07:778][116]LogSlate: Window 'FallZone' being destroyed
+[2022.11.14-18.22.07:805][116]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-18.22.07:805][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-18.22.17:122][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FallZone.FallZone
+[2022.11.14-18.22.17:122][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.14-18.22.41:955][702]LogSlate: Window 'FallZone' being destroyed
+[2022.11.14-18.22.41:964][702]LogSlate: Window 'FallZone' being destroyed
+[2022.11.14-18.22.41:967][702]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.14-18.22.41:967][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.14-18.23.07:048][585]Cmd: TRANSACTION UNDO
+[2022.11.14-18.23.07:048][585]LogEditorTransaction: Undo Set Scale
+[2022.11.14-18.23.41:859][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.14-18.23.41:874][547]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_1
+[2022.11.14-18.23.41:875][547]LogSavePackage: Moving '../../../../../../Users/tbair/Documents/GitHub/HodenH_BairT/Homework_1/Saved/Level_BallGame_1341B85BB4D8887E24439F084464C60A1.tmp' to '../../../../../../Users/tbair/Documents/GitHub/HodenH_BairT/Homework_1/Content/Maps/Level_BallGame_1.umap'
+[2022.11.14-18.23.41:894][547]AssetCheck: New page: Asset Save: Level_BallGame_1
+[2022.11.14-18.23.41:894][547]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_1.Level_BallGame_1
